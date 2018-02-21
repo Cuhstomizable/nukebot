@@ -1,0 +1,17 @@
+{
+  "name": "nukebot",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/nterry/heroku-buildpack-csharp"
+    }
+  ]
+}
